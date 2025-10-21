@@ -27,7 +27,8 @@ become "the walking dictionary"
 
 ## Example Screenshot
 
-> fun
+![goob](image.png)
+![goobtwo](image1.png)
 
 ---
 
